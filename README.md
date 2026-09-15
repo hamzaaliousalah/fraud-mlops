@@ -143,8 +143,6 @@ docker run -p 8000:8000 fraud-detection-api
 L'API tourne maintenant dans un container isolé, exactement comme elle
 tournerait en production.
 
-```
-
 ---
 
 
