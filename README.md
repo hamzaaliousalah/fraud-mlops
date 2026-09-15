@@ -143,15 +143,6 @@ docker run -p 8000:8000 fraud-detection-api
 L'API tourne maintenant dans un container isolé, exactement comme elle
 tournerait en production.
 
-### Étape H — Mettre en place le CI/CD
-1. Crée un repo GitHub et pousse ton code :
-```bash
-git init
-git add .
-git commit -m "Initial commit: fraud detection MLOps pipeline"
-git branch -M main
-git remote add origin https://github.com/TON_USERNAME/fraud-detection-mlops.git
-git push -u origin main
 ```
 
 ---
